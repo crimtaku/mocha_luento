@@ -1,0 +1,12 @@
+{
+  "name": "mocha_luento",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
